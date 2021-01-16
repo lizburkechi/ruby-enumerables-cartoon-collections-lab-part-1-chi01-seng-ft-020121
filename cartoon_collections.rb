@@ -6,6 +6,7 @@ def greet_characters(array)
 
   array.each do |greet_character|
     print "Hello #{greet_character}!"
+    
 end
 
 end
@@ -15,6 +16,6 @@ end
 #
 # Print a numbered list of each element
 def list_dwarves(array)
-
+array.each
 
 end
